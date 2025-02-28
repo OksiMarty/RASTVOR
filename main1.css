@@ -1,0 +1,30 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height:100%;
+font-family: 'Krapka';
+	
+}
+
+
+@font-face {
+  font-family: "Krapka";
+  src: url("DRKrapkaSquare-Regular.woff");
+}
+
+.backbox
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	
+			
+}
+
+.pict {
+	padding:40px;
+}
